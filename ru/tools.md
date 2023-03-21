@@ -21,4 +21,7 @@
 
 - [Grafana](https://grafana.com) - инструмент для построения графиков на основе данных из разных источников
 - [Prometheus](https://prometheus.io) - популярнейшая система сбора и хранения метрик
--
+
+## Shell
+
+- [Task](https://taskfile.dev) - альтернатива make

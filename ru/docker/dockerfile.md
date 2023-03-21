@@ -40,5 +40,6 @@ FROM python
 FROM python:latest
 FROM python:3
 # good
+FROM python:3.9
 FROM python:3.9.15
 ```
